@@ -9,7 +9,6 @@ import javax.swing.JPanel;
 import javax.swing.JSpinner;
 import javax.swing.SpinnerNumberModel;
 
-import james.sugden.engine.Time;
 import james.sugden.engine.game_object.GameObject;
 import james.sugden.engine.input.form.EEventObject;
 import james.sugden.engine.maths.MathsUtils;
